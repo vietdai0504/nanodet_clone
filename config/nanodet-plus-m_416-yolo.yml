@@ -86,7 +86,7 @@ data:
   val:
     name: YoloDataset
     img_path: /content/Crack-Finder--1/valid/images
-    ann_path: /content/Crack-Finder--1/valid/images
+    ann_path: /content/Crack-Finder--1/valid/labels
     class_names: *class_names
     input_size: [416,416] #[w,h]
     keep_ratio: False
